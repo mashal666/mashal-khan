@@ -1,3 +1,3 @@
 const mashal=()=>{
-    hfiuwauhfiuweyefhfjjc
+    hfiuwauhfiuweyefhfjjcjkwhwdjh   wegfjh  wg
 }
